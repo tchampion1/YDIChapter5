@@ -1,0 +1,7 @@
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TippingTable\TippingTable\bin\Debug\TippingTable.exe.config
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TippingTable\TippingTable\bin\Debug\TippingTable.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TippingTable\TippingTable\bin\Debug\TippingTable.pdb
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TippingTable\TippingTable\obj\Debug\TippingTable.csproj.AssemblyReference.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TippingTable\TippingTable\obj\Debug\TippingTable.csproj.CoreCompileInputs.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TippingTable\TippingTable\obj\Debug\TippingTable.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TippingTable\TippingTable\obj\Debug\TippingTable.pdb

@@ -1,0 +1,7 @@
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TrippingTable2\TrippingTable2\bin\Debug\TrippingTable2.exe.config
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TrippingTable2\TrippingTable2\bin\Debug\TrippingTable2.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TrippingTable2\TrippingTable2\bin\Debug\TrippingTable2.pdb
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TrippingTable2\TrippingTable2\obj\Debug\TrippingTable2.csproj.AssemblyReference.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TrippingTable2\TrippingTable2\obj\Debug\TrippingTable2.csproj.CoreCompileInputs.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TrippingTable2\TrippingTable2\obj\Debug\TrippingTable2.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\YDI(CHAPTER5)\TrippingTable2\TrippingTable2\obj\Debug\TrippingTable2.pdb
